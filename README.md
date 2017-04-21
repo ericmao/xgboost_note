@@ -14,4 +14,7 @@ XGBoost似乎強大，Kaggle中優勝隊伍的御用工具，值得深入，以�
 * Step 4:  XGBoost example (如附件)
 Titanic: Machine Learning from Disaster (https://www.kaggle.com/cbrogan/titanic/xgboost-example-python/code)
 Microsoft Malware Competition (https://www.kaggle.com/c/malware-classification)，冠軍GitHub https://github.com/xiaozhouwang/kaggle_Microsoft_Malware (附件為CODASPY’16 dataset- https://github.com/ManSoSec/Microsoft-Malware-Challenge)
+
+* [Update April 21th] 新增XGBoostMalwareAnalysis(路徑：malware/)
+
  
