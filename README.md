@@ -17,4 +17,8 @@ Microsoft Malware Competition (https://www.kaggle.com/c/malware-classification)�
 
 * [Update April 21th] 新增XGBoostMalwareAnalysis(路徑：malware/)
 
- 
+* OSX El capitan installation
+    - brew tap homebrew/boneyard
+    - brew install --with-clang llvm
+    - brew install brew install gcc@5
+    - pip install xgboost
